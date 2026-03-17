@@ -24,10 +24,10 @@ Supports two backends:
 2. INSTALLATION                                   *obsidian-complete-install*
 
 With vim-plug: >
-    Plug 'your-user/vim-obsidian'
+    Plug 'srijanshetty/vim-obsidian'
 
 With lazy.nvim: >
-    { 'your-user/vim-obsidian', ft = 'markdown' }
+    { 'srijanshetty/vim-obsidian', ft = 'markdown' }
 
 Manual: copy plugin/ and autoload/ dirs into ~/.vim/
 
